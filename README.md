@@ -27,9 +27,11 @@ Wildly unsorted, first addition 2019/11/15
 - [Thorn CM](https://www.musicradar.com/features/free-pcmac-spectral-powersynth-with-computer-music-thorn-cm)
 - [Eclipsis VSTi](https://www.kvraudio.com/product/eclipsis-by-vst-zone)
 - [Zebralette by u-he](https://www.kvraudio.com/product/zebralette-by-u-he)
-- [YT: Mad Zach's Top 5 Free VST Plugins for Electronic Producers](https://www.youtube.com/watch?v=JQmfKkU4dTI&feature=youtu.be)
-- [YT: Top 5 FREE VST plugins for mixing - 2017](https://www.youtube.com/watch?v=cImU0BL7f0c&feature=youtu.be)
 - [YT: Best Free Virtual Instrument Plugins for Music Production 2019](https://www.youtube.com/watch?v=trmsTjLUm2Y&feature=youtu.be)
+
+### Plugins
+- [Best Free Granulator VST/AU Plugins!](https://bedroomproducersblog.com/2012/03/30/bpb-freeware-studio-best-free-granulator-vstau-plugins/)
+- [YT: Mad Zach's Top 5 Free VST Plugins for Electronic Producers](https://www.youtube.com/watch?v=JQmfKkU4dTI&feature=youtu.be)
 
 ### Samples
 - [YT: Best Sources for FREE Sample Packs 2019](https://www.youtube.com/watch?v=W9pqV2ncLSk&feature=youtu.be)
@@ -46,4 +48,5 @@ Wildly unsorted, first addition 2019/11/15
 - [Learning to Produce Electronic Music [Music Production Crash Course]](https://www.youtube.com/watch?v=PoQqTeGEMOo&feature=youtu.be)
 - [YT: Top 5 Mixing Mistakes and How to Fix Them](https://www.youtube.com/watch?v=NUjlzQWPl_s&feature=youtu.be)
 - [YT: Best free DAWs for Music Production in 2019](https://www.youtube.com/watch?v=Tud3ihOcAU4&feature=youtu.be)
+- [YT: Top 5 FREE VST plugins for mixing - 2017](https://www.youtube.com/watch?v=cImU0BL7f0c&feature=youtu.be)
 
