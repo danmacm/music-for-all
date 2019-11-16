@@ -37,8 +37,8 @@ Wildly unsorted, first addition 2019/11/15
 ### Samples
 - [YT: Best Sources for FREE Sample Packs 2019](https://www.youtube.com/watch?v=W9pqV2ncLSk&feature=youtu.be)
   - [WA Production](https://www.waproduction.com/sounds/items/free)
-  - [Cymatics](https://cymatics.fm/pages/free-download-vault)
-  - [FreeDrumKits](http://freedrumkits.net/free-drum-kits/)
+  - [Cymatics](https://cymatics.fm/pages/free-download-vault) -- Royalty-free
+  - [FreeDrumKits](http://freedrumkits.net/free-drum-kits/) -- no idea if this is royalty-free
   - [Sloopy](https://slooply.com/sample-packs/free)
   - [SampleFocus](https://samplefocus.com/)
   - [WaveAlchemy](https://www.wavealchemy.co.uk/free-samples/)
