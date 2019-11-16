@@ -20,7 +20,7 @@ Wildly unsorted, first addition 2019/11/15
 ### Parts
 - [Musiclily Store Amazon](https://www.amazon.com/stores/Musiclily/Musiclily/page/E34E6491-7C65-4FB2-B789-3E556918C09D)
 - [Sunsmile Music Store Amazon](https://www.amazon.com/s?i=merchant-items&me=A15V1OM2LZXVCP)
-- [TNT Guitars](#)
+- [TNT Guitars](https://www.tntcustomguitars.com/)
 
 ### Synths & VSTi
 - [Helm](https://tytel.org/helm/)
