@@ -36,6 +36,7 @@ Wildly unsorted, first addition 2019/11/15
 
 ### Samples
 - [YT: Best Sources for FREE Sample Packs 2019](https://www.youtube.com/watch?v=W9pqV2ncLSk&feature=youtu.be)
+  - [Beatproduction Sound Kits](https://beatproduction.net/category/sound-kits/)
 
 ### Unsorted Stuffs
 
