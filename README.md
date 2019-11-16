@@ -31,7 +31,8 @@ Wildly unsorted, first addition 2019/11/15
 
 ### Plugins
 - [Best Free Granulator VST/AU Plugins!](https://bedroomproducersblog.com/2012/03/30/bpb-freeware-studio-best-free-granulator-vstau-plugins/)
-- [YT: Mad Zach's Top 5 Free VST Plugins for Electronic Producers](https://www.youtube.com/watch?v=JQmfKkU4dTI&feature=youtu.be)
+- [YT: Mad Zach's Top 5 Free VST Plugins for Electronic Producers](https://www.youtube.com/watch?v=JQmfKkU4dTI&feature=youtu.be)\
+- [FREE VST PLUGINS](https://bedroomproducersblog.com/free-vst-plugins/)
 
 ### Samples
 - [YT: Best Sources for FREE Sample Packs 2019](https://www.youtube.com/watch?v=W9pqV2ncLSk&feature=youtu.be)
