@@ -36,7 +36,21 @@ Wildly unsorted, first addition 2019/11/15
 
 ### Samples
 - [YT: Best Sources for FREE Sample Packs 2019](https://www.youtube.com/watch?v=W9pqV2ncLSk&feature=youtu.be)
-  - [Beatproduction Sound Kits](https://beatproduction.net/category/sound-kits/)
+  - [WA Production](https://www.waproduction.com/sounds/items/free)
+  - [Cymatics](https://cymatics.fm/pages/free-download-vault)
+  - [FreeDrumKits](http://freedrumkits.net/free-drum-kits/)
+  - [Sloopy](https://slooply.com/sample-packs/free)
+  - [SampleFocus](https://samplefocus.com/)
+  - [WaveAlchemy](https://www.wavealchemy.co.uk/free-samples/)
+  - [SoundMajorz](https://www.soundmajorz.com/collections/free-kits)
+  - [Alonso Sound](https://www.alonso-sound.com/free/)
+  - [Converse Sample Library](https://www.conversesamplelibrary.com/)
+  - [NewLoops](https://newloops.com/pages/free-sample-packs)
+  - [Free Beats and Samples](http://www.freebeatsandsamples.com/category/free-sample-packs/)
+  - [99sounds](http://99sounds.org/)
+  - [TriSamples](https://trisamples.com/category/free-downloads/)
+  - [SampleRadar](https://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820) -- huge set of links oy!
+  - [FreeSound](https://freesound.org/)
 
 ### Unsorted Stuffs
 
