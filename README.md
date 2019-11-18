@@ -28,11 +28,14 @@ Wildly unsorted, first addition 2019/11/15
 - [Eclipsis VSTi](https://www.kvraudio.com/product/eclipsis-by-vst-zone)
 - [Zebralette by u-he](https://www.kvraudio.com/product/zebralette-by-u-he)
 - [YT: Best Free Virtual Instrument Plugins for Music Production 2019](https://www.youtube.com/watch?v=trmsTjLUm2Y&feature=youtu.be)
+- [Game Boy Virtual Instrument](https://sonicstate.com/news/2019/11/15/game-boy-virtual-instrument/)
 
 ### Plugins
 - [Best Free Granulator VST/AU Plugins!](https://bedroomproducersblog.com/2012/03/30/bpb-freeware-studio-best-free-granulator-vstau-plugins/)
 - [YT: Mad Zach's Top 5 Free VST Plugins for Electronic Producers](https://www.youtube.com/watch?v=JQmfKkU4dTI&feature=youtu.be)\
 - [FREE VST PLUGINS](https://bedroomproducersblog.com/free-vst-plugins/)
+- [SampleScience](https://www.samplescience.ca/)
+-
 
 ### Samples
 - [YT: Best Sources for FREE Sample Packs 2019](https://www.youtube.com/watch?v=W9pqV2ncLSk&feature=youtu.be)
@@ -65,4 +68,8 @@ Wildly unsorted, first addition 2019/11/15
 - [YT: Top 5 Mixing Mistakes and How to Fix Them](https://www.youtube.com/watch?v=NUjlzQWPl_s&feature=youtu.be)
 - [YT: Best free DAWs for Music Production in 2019](https://www.youtube.com/watch?v=Tud3ihOcAU4&feature=youtu.be)
 - [YT: Top 5 FREE VST plugins for mixing - 2017](https://www.youtube.com/watch?v=cImU0BL7f0c&feature=youtu.be)
+- [Synth1 Vst Free Trance Production Presets](https://www.youtube.com/watch?v=oesUY-PeCFY&feature=youtu.be)
+- [You Need These 10 Free VST Plugins](https://www.youtube.com/watch?v=zpz77fX49ws&feature=youtu.be)
+- [3 Levels of Chords: How to Triads to Einstein Equations - FL Studio](https://www.youtube.com/watch?v=gh_nWtW43Yk&feature=youtu.be]
+- [Guitar Rig Essentials](https://www.youtube.com/watch?v=GxvwyCb5mP0&feature=youtu.be)
 
